@@ -1,6 +1,21 @@
-### Hi there 👋
-[![Hiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyoung123)](https://github.com/hiyoung123/github-readme-stats)
+###  👋 I'm Hiyoung
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hiyoung123/count.svg" />
+</p>
+
+<p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyoung123&layout=compact)](https://github.com/hiyoung123/github-readme-stats)
+  
+[![Hiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyoung123&show_icons=true&hide=contribs)](https://github.com/hiyoung123/github-readme-stats)
+
+</p>  
+  
 <!--
 **hiyoung123/hiyoung123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
