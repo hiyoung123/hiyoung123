@@ -1,6 +1,6 @@
 ###  👋 I'm Hiyoung
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="230">
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
 
 
 <p align="center"> 
