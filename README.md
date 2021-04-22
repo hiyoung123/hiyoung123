@@ -6,12 +6,14 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hiyoung123/count.svg" />
+  
+  - 🔭 I’m currently working on ByteDance
+  - 🌱 I’m currently learning NLP
 </p>
 
 <p align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyoung123&layout=compact)](https://github.com/hiyoung123/github-readme-stats)
-  
 [![Hiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyoung123&show_icons=true&hide=contribs)](https://github.com/hiyoung123/github-readme-stats)
 
 </p>  
