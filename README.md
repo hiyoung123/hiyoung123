@@ -1,6 +1,5 @@
 ###  👋 I'm Hiyoung
-
-<p align="center"> 
+ 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hiyoung123/count.svg" />
   
@@ -8,7 +7,6 @@
   - 🌱 I’m currently learning NLP
 
 <img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
-</p>
 
 <!--
 
