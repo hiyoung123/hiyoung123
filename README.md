@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/hiyoung123/count.svg" />
  
   - 🔭 I’m currently working on ByteDance
-  - 🌱 I’m currently learning NLP, IR, and Search Engine
+  - 🌱 I’m currently learning NLP、IR and Search Engine
 
 
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
