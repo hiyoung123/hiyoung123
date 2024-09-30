@@ -49,7 +49,7 @@
   - 工作岗位：软件开发
   - 工作内容：Android APP & Android Framework & Android BSP
 
-<img align="right" width="88" src="https://t7.baidu.com/it/u=456458807,628481878&fm=217&app=126&size=f242,150&n=0&f=JPEG&fmt=auto?s=41223C7297D467C258D859D7000080A2&sec=1727802000&t=51c92d855d4f1323d613330b9842f124" />
+<img align="right" width="88" src="https://bkimg.cdn.bcebos.com/pic/0e2442a7d933c895afe5ccf8da1373f08302009d?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" />
 
 - [瞬联科技](https://www.nio.cn/) &emsp; 📌 2017-07 —— 2019.08
 
