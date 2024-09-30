@@ -100,13 +100,33 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyoung123&layout=compact&theme=city_lights" />
 </a>
   </div>
- </td></tr>
- <tr><td>
+  </p>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<div align="center">
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=hiyoung123&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+</p>
   
+![](./profile-3d-contrib/profile-night-view.svg)
+
+
+
  </td></tr>
 </table>
 
 
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hiyoung123&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hiyoung123&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiyoung123&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
 
+<!--ACTION_START_FLAG:github-followers-->
+<!--ACTION_END_FLAG:github-followers-->
