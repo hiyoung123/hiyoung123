@@ -86,4 +86,6 @@
  </td></tr>
 </table>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
