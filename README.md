@@ -68,13 +68,14 @@
  <td>
   
   ### 📊Github Stats
-  
+  <div align="center">
   <a href="https://github.com/hiyoung123/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiyoung123&count_private=true&show_icons=true&theme=city_lights" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiyoung123&count_private=true&show_icons=true&theme=city_lights&line_height=20" />
   </a>
   <a href="https://github.com/hiyoung123/github-readme-stats">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyoung123&layout=compact&theme=city_lights" />
 </a>
+  </div>
  </td>
 </tr>
 </table>
