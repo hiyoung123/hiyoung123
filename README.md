@@ -19,8 +19,11 @@
 
  ### 🤺 About Me
 
-  - ***🔭 I’m currently working on Qihoo360*** 
-  - ***🌱 I’m currently learning NLP、Search Engine and AIGC***
+  - ***🔭 我是海洋，目前在北京奇虎360工作*** 
+  - ***🌱 从事搜索引擎、AIGC应用相关工作***
+  - ***🌱 喜欢编程、打游戏、喝酒和健身***
+  - ***👯 常年混迹于Gihthub、V2EX、阮一峰周刊等同性交友网站***
+  - ***💬 希望能和更多优秀的、志同道合的朋友一起创造出更多优秀的产品***
 
 
 </td><td valign="top" width="50%">
