@@ -156,18 +156,18 @@
         <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
     </td>
     <td align="center">
-        <a href="https://github.com/esin">
-            <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
-        </a>
-        <br />
-        <a href="https://github.com/esin">Andrey Esin</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/OfficialCodeVoyage">
             <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
         </a>
         <br />
         <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/esin">
+            <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
+        </a>
+        <br />
+        <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
         <a href="https://github.com/jeffersonsimaogoncalves">
