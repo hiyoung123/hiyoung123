@@ -47,7 +47,7 @@
 
 <img align="right" width="88" src="https://bkimg.cdn.bcebos.com/pic/21a4462309f79052982293b04fa4c0ca7bcb0b467fbf?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" />
 
-- [字节跳动](https://www.bytedance.com/) &emsp; 📌 2019-08 —— 2022-10
+- [字节跳动](https://www.bytedance.com/) &emsp; 📌 2019-08 —— 2021-10
 
   - 工作岗位：软件开发
   - 工作内容：Android & 搜索系统 & 数据分析
