@@ -157,18 +157,18 @@
         <a href="https://github.com/eust-w">longtao</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Charles-Chrismann">
-            <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
-        </a>
-        <br />
-        <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/OfficialCodeVoyage">
             <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
         </a>
         <br />
         <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Charles-Chrismann">
+            <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
+        </a>
+        <br />
+        <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
     </td>
     <td align="center">
         <a href="https://github.com/esin">
