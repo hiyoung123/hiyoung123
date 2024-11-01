@@ -194,18 +194,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/JCSIVO">
-            <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
-        </a>
-        <br />
-        <a href="https://github.com/JCSIVO">JCSIVO</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/trinhminhtriet">
             <img src="https://avatars2.githubusercontent.com/u/1650997" width="100px;" alt="trinhminhtriet"/>
         </a>
         <br />
         <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/JCSIVO">
+            <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
+        </a>
+        <br />
+        <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
     <td align="center">
         <a href="https://github.com/dirambora">
@@ -219,7 +219,7 @@
             <img src="https://avatars2.githubusercontent.com/u/10897992" width="100px;" alt="ArefMq"/>
         </a>
         <br />
-        <a href="https://github.com/ArefMq">Aref Moqadam Mehr</a>
+        <a href="https://github.com/ArefMq">Aref Mehr</a>
     </td>
     <td align="center">
         <a href="https://github.com/Akshar-code">
