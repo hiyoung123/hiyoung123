@@ -143,18 +143,18 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/eust-w">
-            <img src="https://avatars2.githubusercontent.com/u/39115651" width="100px;" alt="eust-w"/>
-        </a>
-        <br />
-        <a href="https://github.com/eust-w">longtao</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/OfficialCodeVoyage">
             <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
         </a>
         <br />
         <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/eust-w">
+            <img src="https://avatars2.githubusercontent.com/u/39115651" width="100px;" alt="eust-w"/>
+        </a>
+        <br />
+        <a href="https://github.com/eust-w">longtao</a>
     </td>
     <td align="center">
         <a href="https://github.com/IDouble">
