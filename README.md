@@ -201,18 +201,18 @@
         <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
-        <a href="https://github.com/trinhminhtriet">
-            <img src="https://avatars2.githubusercontent.com/u/1650997" width="100px;" alt="trinhminhtriet"/>
-        </a>
-        <br />
-        <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nholuongut">
             <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
         </a>
         <br />
         <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/trinhminhtriet">
+            <img src="https://avatars2.githubusercontent.com/u/1650997" width="100px;" alt="trinhminhtriet"/>
+        </a>
+        <br />
+        <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
     </td>
     <td align="center">
         <a href="https://github.com/ArefMq">
