@@ -194,18 +194,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/dirambora">
-            <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
-        </a>
-        <br />
-        <a href="https://github.com/dirambora">Diram</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nholuongut">
             <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
         </a>
         <br />
         <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dirambora">
+            <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
+        </a>
+        <br />
+        <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
         <a href="https://github.com/ArefMq">
