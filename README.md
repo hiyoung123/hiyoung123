@@ -175,7 +175,7 @@
             <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersonsimaogoncalves"/>
         </a>
         <br />
-        <a href="https://github.com/jeffersonsimaogoncalves">Jèfferson Gonçalves</a>
+        <a href="https://github.com/jeffersonsimaogoncalves">Jefferson Simão Gonçalves</a>
     </td>
     <td align="center">
         <a href="https://github.com/warmice71">
@@ -199,13 +199,6 @@
         </a>
         <br />
         <a href="https://github.com/nholuongut">Nho Luong</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/mowhn">
-            <img src="https://avatars2.githubusercontent.com/u/184830396" width="100px;" alt="mowhn"/>
-        </a>
-        <br />
-        <a href="https://github.com/mowhn">mr_mowhn</a>
     </td>
     <td align="center">
         <a href="https://github.com/dirambora">
@@ -242,8 +235,6 @@
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/rangola">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/rangola">Goran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/baifengbai">
             <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/BarryZM">BarryZM</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/zhongbin1">
+            <img src="https://avatars2.githubusercontent.com/u/26400485" width="100px;" alt="zhongbin1"/>
+        </a>
+        <br />
+        <a href="https://github.com/zhongbin1">Light</a>
     </td>
   </tr>
 </table>
