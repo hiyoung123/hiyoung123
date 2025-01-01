@@ -171,11 +171,11 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/jeffersonsimaogoncalves">
-            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersonsimaogoncalves"/>
+        <a href="https://github.com/jeffersongoncalves">
+            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersongoncalves"/>
         </a>
         <br />
-        <a href="https://github.com/jeffersonsimaogoncalves">Jefferson Simão Gonçalves</a>
+        <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
     </td>
     <td align="center">
         <a href="https://github.com/warmice71">
