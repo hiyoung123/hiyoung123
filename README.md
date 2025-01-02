@@ -245,6 +245,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/deepakcode21">
+            <img src="https://avatars2.githubusercontent.com/u/143344721" width="100px;" alt="deepakcode21"/>
+        </a>
+        <br />
+        <a href="https://github.com/deepakcode21">Deepak</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/baifengbai">
             <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
         </a>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/BarryZM">BarryZM</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zhongbin1">
-            <img src="https://avatars2.githubusercontent.com/u/26400485" width="100px;" alt="zhongbin1"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhongbin1">Light</a>
     </td>
   </tr>
 </table>
