@@ -236,20 +236,20 @@
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
     <td align="center">
-        <a href="https://github.com/rangola">
-            <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
-        </a>
-        <br />
-        <a href="https://github.com/rangola">Goran</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/deepakcode21">
             <img src="https://avatars2.githubusercontent.com/u/143344721" width="100px;" alt="deepakcode21"/>
         </a>
         <br />
         <a href="https://github.com/deepakcode21">Deepak</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/rangola">
+            <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
+        </a>
+        <br />
+        <a href="https://github.com/rangola">Goran</a>
     </td>
     <td align="center">
         <a href="https://github.com/baifengbai">
