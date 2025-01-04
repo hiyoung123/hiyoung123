@@ -229,18 +229,18 @@
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
     <td align="center">
-        <a href="https://github.com/MdRashid62">
-            <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
-        </a>
-        <br />
-        <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/deepakcode21">
             <img src="https://avatars2.githubusercontent.com/u/143344721" width="100px;" alt="deepakcode21"/>
         </a>
         <br />
         <a href="https://github.com/deepakcode21">Deepak</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MdRashid62">
+            <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
+        </a>
+        <br />
+        <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
   </tr>
   <tr>
