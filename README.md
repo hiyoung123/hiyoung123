@@ -171,18 +171,18 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/jeffersongoncalves">
-            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersongoncalves"/>
-        </a>
-        <br />
-        <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/warmice71">
             <img src="https://avatars2.githubusercontent.com/u/136490321" width="100px;" alt="warmice71"/>
         </a>
         <br />
         <a href="https://github.com/warmice71">Backend and Frontend Developer, and BlockChain developer</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jeffersongoncalves">
+            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersongoncalves"/>
+        </a>
+        <br />
+        <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
     </td>
     <td align="center">
         <a href="https://github.com/JCSIVO">
@@ -229,21 +229,12 @@
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
     <td align="center">
-        <a href="https://github.com/deepakcode21">
-            <img src="https://avatars2.githubusercontent.com/u/143344721" width="100px;" alt="deepakcode21"/>
-        </a>
-        <br />
-        <a href="https://github.com/deepakcode21">Deepak</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
         </a>
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/rangola">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/rangola">Goran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/baifengbai">
             <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/BarryZM">BarryZM</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/zhongbin1">
+            <img src="https://avatars2.githubusercontent.com/u/26400485" width="100px;" alt="zhongbin1"/>
+        </a>
+        <br />
+        <a href="https://github.com/zhongbin1">Light</a>
     </td>
   </tr>
 </table>
