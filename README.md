@@ -171,18 +171,18 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/jeffersongoncalves">
-            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersongoncalves"/>
-        </a>
-        <br />
-        <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/warmice71">
             <img src="https://avatars2.githubusercontent.com/u/136490321" width="100px;" alt="warmice71"/>
         </a>
         <br />
         <a href="https://github.com/warmice71">Backend and Frontend Developer, and BlockChain developer</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jeffersongoncalves">
+            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersongoncalves"/>
+        </a>
+        <br />
+        <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
     </td>
     <td align="center">
         <a href="https://github.com/JCSIVO">
