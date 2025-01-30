@@ -266,18 +266,18 @@
         <a href="https://github.com/northeast250">northeast250</a>
     </td>
     <td align="center">
-        <a href="https://github.com/zhaocc1106">
-            <img src="https://avatars2.githubusercontent.com/u/26559935" width="100px;" alt="zhaocc1106"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhaocc1106">zhaochaochao</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/MadhawaRathnayaka">
             <img src="https://avatars2.githubusercontent.com/u/102204921" width="100px;" alt="MadhawaRathnayaka"/>
         </a>
         <br />
         <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/zhaocc1106">
+            <img src="https://avatars2.githubusercontent.com/u/26559935" width="100px;" alt="zhaocc1106"/>
+        </a>
+        <br />
+        <a href="https://github.com/zhaocc1106">zhaochaochao</a>
     </td>
     <td align="center">
         <a href="https://github.com/BarryZM">
