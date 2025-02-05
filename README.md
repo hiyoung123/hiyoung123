@@ -208,6 +208,13 @@
         <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
+        <a href="https://github.com/meliksahyorulmazlar">
+            <img src="https://avatars2.githubusercontent.com/u/141827156" width="100px;" alt="meliksahyorulmazlar"/>
+        </a>
+        <br />
+        <a href="https://github.com/meliksahyorulmazlar">Meliksah Yorulmazlar</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ArefMq">
             <img src="https://avatars2.githubusercontent.com/u/10897992" width="100px;" alt="ArefMq"/>
         </a>
@@ -235,6 +242,8 @@
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/rangola">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
@@ -242,8 +251,6 @@
         <br />
         <a href="https://github.com/rangola">Goran</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/baifengbai">
             <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/BarryZM">BarryZM</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zhongbin1">
-            <img src="https://avatars2.githubusercontent.com/u/26400485" width="100px;" alt="zhongbin1"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhongbin1">Light</a>
     </td>
   </tr>
 </table>
