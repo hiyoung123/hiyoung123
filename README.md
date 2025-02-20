@@ -185,20 +185,20 @@
         <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
     </td>
     <td align="center">
-        <a href="https://github.com/meliksahyorulmazlar">
-            <img src="https://avatars2.githubusercontent.com/u/141827156" width="100px;" alt="meliksahyorulmazlar"/>
-        </a>
-        <br />
-        <a href="https://github.com/meliksahyorulmazlar">Meliksah Yorulmazlar</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/JCSIVO">
             <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
         </a>
         <br />
         <a href="https://github.com/JCSIVO">JCSIVO</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/meliksahyorulmazlar">
+            <img src="https://avatars2.githubusercontent.com/u/141827156" width="100px;" alt="meliksahyorulmazlar"/>
+        </a>
+        <br />
+        <a href="https://github.com/meliksahyorulmazlar">Meliksah Yorulmazlar</a>
     </td>
     <td align="center">
         <a href="https://github.com/nholuongut">
@@ -277,7 +277,7 @@
             <img src="https://avatars2.githubusercontent.com/u/102204921" width="100px;" alt="MadhawaRathnayaka"/>
         </a>
         <br />
-        <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
+        <a href="https://github.com/MadhawaRathnayaka">Nipuni Hasandara</a>
     </td>
     <td align="center">
         <a href="https://github.com/zhaocc1106">
