@@ -178,18 +178,18 @@
         <a href="https://github.com/warmice71">Backend and Frontend Developer, and BlockChain developer</a>
     </td>
     <td align="center">
-        <a href="https://github.com/jeffersongoncalves">
-            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersongoncalves"/>
-        </a>
-        <br />
-        <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nholuongut">
             <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
         </a>
         <br />
         <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jeffersongoncalves">
+            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersongoncalves"/>
+        </a>
+        <br />
+        <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
     </td>
   </tr>
   <tr>
