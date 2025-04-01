@@ -185,20 +185,20 @@
         <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
-        <a href="https://github.com/jeffersongoncalves">
-            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersongoncalves"/>
-        </a>
-        <br />
-        <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/JCSIVO">
             <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
         </a>
         <br />
         <a href="https://github.com/JCSIVO">JCSIVO</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/jeffersongoncalves">
+            <img src="https://avatars2.githubusercontent.com/u/411493" width="100px;" alt="jeffersongoncalves"/>
+        </a>
+        <br />
+        <a href="https://github.com/jeffersongoncalves">Jefferson Gonçalves</a>
     </td>
     <td align="center">
         <a href="https://github.com/dirambora">
