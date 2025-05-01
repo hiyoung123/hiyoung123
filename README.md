@@ -194,6 +194,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/jelspace">
+            <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
+        </a>
+        <br />
+        <a href="https://github.com/jelspace">21world</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/dirambora">
             <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
         </a>
@@ -235,6 +242,8 @@
         <br />
         <a href="https://github.com/rangola">Goran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/baifengbai">
             <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
@@ -242,8 +251,6 @@
         <br />
         <a href="https://github.com/baifengbai">Bai Feng</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/subhobrata">
             <img src="https://avatars2.githubusercontent.com/u/33755814" width="100px;" alt="subhobrata"/>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/zhongbin1">Light</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/liuzhuang1024">
-            <img src="https://avatars2.githubusercontent.com/u/23006154" width="100px;" alt="liuzhuang1024"/>
-        </a>
-        <br />
-        <a href="https://github.com/liuzhuang1024">LiuZhuang</a>
     </td>
   </tr>
 </table>
