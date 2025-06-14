@@ -178,12 +178,21 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
+        <a href="https://github.com/seckinyasar">
+            <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
+        </a>
+        <br />
+        <a href="https://github.com/seckinyasar">Seckin Yasar</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/warmice71">
             <img src="https://avatars2.githubusercontent.com/u/136490321" width="100px;" alt="warmice71"/>
         </a>
         <br />
         <a href="https://github.com/warmice71">Backend and Frontend Developer, and BlockChain developer</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/JCSIVO">
             <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
@@ -191,8 +200,6 @@
         <br />
         <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/jelspace">
             <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
@@ -235,6 +242,8 @@
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/rangola">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
@@ -242,8 +251,6 @@
         <br />
         <a href="https://github.com/rangola">Goran</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/baifengbai">
             <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/BarryZM">BarryZM</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zhongbin1">
-            <img src="https://avatars2.githubusercontent.com/u/26400485" width="100px;" alt="zhongbin1"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhongbin1">Light</a>
     </td>
   </tr>
 </table>
