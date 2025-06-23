@@ -178,12 +178,21 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
+        <a href="https://github.com/helallao">
+            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
+        </a>
+        <br />
+        <a href="https://github.com/helallao">Ali Yaşar</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/seckinyasar">
             <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
         </a>
         <br />
         <a href="https://github.com/seckinyasar">Seckin Yasar</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/warmice71">
             <img src="https://avatars2.githubusercontent.com/u/136490321" width="100px;" alt="warmice71"/>
@@ -191,8 +200,6 @@
         <br />
         <a href="https://github.com/warmice71">Backend and Frontend Developer, and BlockChain developer</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/JCSIVO">
             <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
@@ -235,6 +242,8 @@
         <br />
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
@@ -242,8 +251,6 @@
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/rangola">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/BarryZM">
-            <img src="https://avatars2.githubusercontent.com/u/26347137" width="100px;" alt="BarryZM"/>
-        </a>
-        <br />
-        <a href="https://github.com/BarryZM">BarryZM</a>
     </td>
   </tr>
 </table>
