@@ -215,6 +215,13 @@
         <a href="https://github.com/jelspace">21world</a>
     </td>
     <td align="center">
+        <a href="https://github.com/oluiscabral">
+            <img src="https://avatars2.githubusercontent.com/u/58452540" width="100px;" alt="oluiscabral"/>
+        </a>
+        <br />
+        <a href="https://github.com/oluiscabral">Luis Cabral</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/dirambora">
             <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
         </a>
@@ -235,6 +242,8 @@
         <br />
         <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/removeif">
             <img src="https://avatars2.githubusercontent.com/u/10427139" width="100px;" alt="removeif"/>
@@ -242,8 +251,6 @@
         <br />
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/zhaocc1106">zhaochaochao</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MadhawaRathnayaka">
-            <img src="https://avatars2.githubusercontent.com/u/102204921" width="100px;" alt="MadhawaRathnayaka"/>
-        </a>
-        <br />
-        <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
     </td>
   </tr>
 </table>
