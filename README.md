@@ -208,13 +208,6 @@
         <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
     <td align="center">
-        <a href="https://github.com/jelspace">
-            <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
-        </a>
-        <br />
-        <a href="https://github.com/jelspace">21world</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/filedonkey">
             <img src="https://avatars2.githubusercontent.com/u/206841003" width="100px;" alt="filedonkey"/>
         </a>
@@ -227,6 +220,13 @@
         </a>
         <br />
         <a href="https://github.com/oluiscabral">Luis Cabral</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jelspace">
+            <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
+        </a>
+        <br />
+        <a href="https://github.com/jelspace">21world</a>
     </td>
     <td align="center">
         <a href="https://github.com/dirambora">
