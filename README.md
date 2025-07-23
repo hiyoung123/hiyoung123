@@ -222,13 +222,6 @@
         <a href="https://github.com/filedonkey">FileDonkey</a>
     </td>
     <td align="center">
-        <a href="https://github.com/oluiscabral">
-            <img src="https://avatars2.githubusercontent.com/u/58452540" width="100px;" alt="oluiscabral"/>
-        </a>
-        <br />
-        <a href="https://github.com/oluiscabral">Luis Cabral</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/dirambora">
             <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
         </a>
@@ -242,8 +235,6 @@
         <br />
         <a href="https://github.com/ArefMq">Aref Mehr</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Akshar-code">
             <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/removeif">
             <img src="https://avatars2.githubusercontent.com/u/10427139" width="100px;" alt="removeif"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/northeast250">northeast250</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/zhaocc1106">
+            <img src="https://avatars2.githubusercontent.com/u/26559935" width="100px;" alt="zhaocc1106"/>
+        </a>
+        <br />
+        <a href="https://github.com/zhaocc1106">zhaochaochao</a>
     </td>
   </tr>
 </table>
