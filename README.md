@@ -222,18 +222,18 @@
         <a href="https://github.com/jelspace">21world</a>
     </td>
     <td align="center">
-        <a href="https://github.com/filedonkey">
-            <img src="https://avatars2.githubusercontent.com/u/206841003" width="100px;" alt="filedonkey"/>
-        </a>
-        <br />
-        <a href="https://github.com/filedonkey">FileDonkey</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/dirambora">
             <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
         </a>
         <br />
         <a href="https://github.com/dirambora">Diram</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/filedonkey">
+            <img src="https://avatars2.githubusercontent.com/u/206841003" width="100px;" alt="filedonkey"/>
+        </a>
+        <br />
+        <a href="https://github.com/filedonkey">FileDonkey</a>
     </td>
     <td align="center">
         <a href="https://github.com/ArefMq">
