@@ -291,7 +291,7 @@
             <img src="https://avatars2.githubusercontent.com/u/102204921" width="100px;" alt="MadhawaRathnayaka"/>
         </a>
         <br />
-        <a href="https://github.com/MadhawaRathnayaka">Nipuni Manage</a>
+        <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
     </td>
   </tr>
 </table>
