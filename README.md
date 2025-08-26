@@ -164,13 +164,6 @@
         <a href="https://github.com/IDouble">Alp ₿📈🚀🌕</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Charles-Chrismann">
-            <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
-        </a>
-        <br />
-        <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nholuongut">
             <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
         </a>
@@ -183,6 +176,13 @@
         </a>
         <br />
         <a href="https://github.com/esin">Andrey Esin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Charles-Chrismann">
+            <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
+        </a>
+        <br />
+        <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
     </td>
     <td align="center">
         <a href="https://github.com/warmice71">
