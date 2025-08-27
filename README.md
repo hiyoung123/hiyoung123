@@ -178,21 +178,12 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Charles-Chrismann">
-            <img src="https://avatars2.githubusercontent.com/u/78157563" width="100px;" alt="Charles-Chrismann"/>
-        </a>
-        <br />
-        <a href="https://github.com/Charles-Chrismann">Charles Chrismann</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/warmice71">
             <img src="https://avatars2.githubusercontent.com/u/136490321" width="100px;" alt="warmice71"/>
         </a>
         <br />
         <a href="https://github.com/warmice71">Backend and Frontend Developer, and BlockChain developer</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/JCSIVO">
             <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
@@ -200,6 +191,8 @@
         <br />
         <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/jelspace">
             <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
@@ -242,8 +235,6 @@
         <br />
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/rangola">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/zhaocc1106">zhaochaochao</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MadhawaRathnayaka">
+            <img src="https://avatars2.githubusercontent.com/u/102204921" width="100px;" alt="MadhawaRathnayaka"/>
+        </a>
+        <br />
+        <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
     </td>
   </tr>
 </table>
