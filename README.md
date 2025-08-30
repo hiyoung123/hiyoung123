@@ -215,13 +215,6 @@
         <a href="https://github.com/ArefMq">Aref Mehr</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ishandutta2007">
-            <img src="https://avatars2.githubusercontent.com/u/2527354" width="100px;" alt="ishandutta2007"/>
-        </a>
-        <br />
-        <a href="https://github.com/ishandutta2007">ishan dutta</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Akshar-code">
             <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
         </a>
@@ -242,8 +235,6 @@
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/rangola">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/rangola">Goran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/alei76">
             <img src="https://avatars2.githubusercontent.com/u/6091534" width="100px;" alt="alei76"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/BarryZM">
+            <img src="https://avatars2.githubusercontent.com/u/26347137" width="100px;" alt="BarryZM"/>
+        </a>
+        <br />
+        <a href="https://github.com/BarryZM">BarryZM</a>
     </td>
   </tr>
 </table>
