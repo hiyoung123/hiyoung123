@@ -266,18 +266,18 @@
         <a href="https://github.com/subhobrata">subhobrata</a>
     </td>
     <td align="center">
-        <a href="https://github.com/northeast250">
-            <img src="https://avatars2.githubusercontent.com/u/8563833" width="100px;" alt="northeast250"/>
-        </a>
-        <br />
-        <a href="https://github.com/northeast250">northeast250</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Kairatzh">
             <img src="https://avatars2.githubusercontent.com/u/148870880" width="100px;" alt="Kairatzh"/>
         </a>
         <br />
         <a href="https://github.com/Kairatzh">kirtzh</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/northeast250">
+            <img src="https://avatars2.githubusercontent.com/u/8563833" width="100px;" alt="northeast250"/>
+        </a>
+        <br />
+        <a href="https://github.com/northeast250">northeast250</a>
     </td>
     <td align="center">
         <a href="https://github.com/zhaocc1106">
