@@ -222,6 +222,13 @@
         <a href="https://github.com/ArefMq">Aref Mehr</a>
     </td>
     <td align="center">
+        <a href="https://github.com/seckinyasar">
+            <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
+        </a>
+        <br />
+        <a href="https://github.com/seckinyasar">Seckin Yasar</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Akshar-code">
             <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
         </a>
@@ -235,6 +242,8 @@
         <br />
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
@@ -242,8 +251,6 @@
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/rangola">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/northeast250">northeast250</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zhaocc1106">
-            <img src="https://avatars2.githubusercontent.com/u/26559935" width="100px;" alt="zhaocc1106"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhaocc1106">zhaochaochao</a>
     </td>
   </tr>
 </table>
