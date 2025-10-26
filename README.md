@@ -194,13 +194,6 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/jelspace">
-            <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
-        </a>
-        <br />
-        <a href="https://github.com/jelspace">21world</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/helallao">
             <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
         </a>
@@ -208,11 +201,11 @@
         <a href="https://github.com/helallao">Ali Yaşar</a>
     </td>
     <td align="center">
-        <a href="https://github.com/dirambora">
-            <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
+        <a href="https://github.com/jelspace">
+            <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
         </a>
         <br />
-        <a href="https://github.com/dirambora">Diram</a>
+        <a href="https://github.com/jelspace">21world</a>
     </td>
     <td align="center">
         <a href="https://github.com/seckinyasar">
@@ -220,6 +213,13 @@
         </a>
         <br />
         <a href="https://github.com/seckinyasar">Seckin Yasar</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dirambora">
+            <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
+        </a>
+        <br />
+        <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
         <a href="https://github.com/ArefMq">
