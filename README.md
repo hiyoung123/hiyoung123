@@ -185,20 +185,20 @@
         <a href="https://github.com/warmice71">Backend and Frontend Developer, and BlockChain developer</a>
     </td>
     <td align="center">
-        <a href="https://github.com/JCSIVO">
-            <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
-        </a>
-        <br />
-        <a href="https://github.com/JCSIVO">JCSIVO</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/helallao">
             <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
         </a>
         <br />
         <a href="https://github.com/helallao">Ali Yaşar</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/JCSIVO">
+            <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
+        </a>
+        <br />
+        <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
     <td align="center">
         <a href="https://github.com/jelspace">
