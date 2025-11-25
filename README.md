@@ -185,21 +185,14 @@
         <a href="https://github.com/helallao">Ali Yaşar</a>
     </td>
     <td align="center">
-        <a href="https://github.com/seckinyasar">
-            <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
-        </a>
-        <br />
-        <a href="https://github.com/seckinyasar">Seckin Yasar</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/JCSIVO">
             <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
         </a>
         <br />
         <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/jelspace">
             <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
@@ -242,8 +235,6 @@
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/rangola">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/rangola">Goran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/alei76">
             <img src="https://avatars2.githubusercontent.com/u/6091534" width="100px;" alt="alei76"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/zhaocc1106">zhaochaochao</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MadhawaRathnayaka">
+            <img src="https://avatars2.githubusercontent.com/u/102204921" width="100px;" alt="MadhawaRathnayaka"/>
+        </a>
+        <br />
+        <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
     </td>
   </tr>
 </table>
