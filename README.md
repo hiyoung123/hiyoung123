@@ -178,21 +178,12 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/helallao">
-            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
-        </a>
-        <br />
-        <a href="https://github.com/helallao">Ali Yaşar</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/JCSIVO">
             <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
         </a>
         <br />
         <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/jelspace">
             <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
@@ -200,6 +191,8 @@
         <br />
         <a href="https://github.com/jelspace">21world</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/dirambora">
             <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
@@ -242,8 +235,6 @@
         <br />
         <a href="https://github.com/rangola">Goran</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/alei76">
             <img src="https://avatars2.githubusercontent.com/u/6091534" width="100px;" alt="alei76"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/alei76">alei76</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/baifengbai">
             <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/BarryZM">
+            <img src="https://avatars2.githubusercontent.com/u/26347137" width="100px;" alt="BarryZM"/>
+        </a>
+        <br />
+        <a href="https://github.com/BarryZM">BarryZM</a>
     </td>
   </tr>
 </table>
