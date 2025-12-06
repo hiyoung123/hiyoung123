@@ -229,11 +229,11 @@
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
     <td align="center">
-        <a href="https://github.com/rangola">
-            <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="rangola"/>
+        <a href="https://github.com/goran-revops">
+            <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="goran-revops"/>
         </a>
         <br />
-        <a href="https://github.com/rangola">Goran</a>
+        <a href="https://github.com/goran-revops">Goran</a>
     </td>
     <td align="center">
         <a href="https://github.com/alei76">
