@@ -236,20 +236,20 @@
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
     <td align="center">
-        <a href="https://github.com/MdRashid62">
-            <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
-        </a>
-        <br />
-        <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/goran-revops">
             <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="goran-revops"/>
         </a>
         <br />
         <a href="https://github.com/goran-revops">Goran</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/MdRashid62">
+            <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
+        </a>
+        <br />
+        <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
     <td align="center">
         <a href="https://github.com/alei76">
