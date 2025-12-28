@@ -252,6 +252,13 @@
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
     <td align="center">
+        <a href="https://github.com/Kairatzh">
+            <img src="https://avatars2.githubusercontent.com/u/148870880" width="100px;" alt="Kairatzh"/>
+        </a>
+        <br />
+        <a href="https://github.com/Kairatzh">kirtzh</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
         </a>
@@ -271,13 +278,6 @@
         </a>
         <br />
         <a href="https://github.com/baifengbai">Bai Feng</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Kairatzh">
-            <img src="https://avatars2.githubusercontent.com/u/148870880" width="100px;" alt="Kairatzh"/>
-        </a>
-        <br />
-        <a href="https://github.com/Kairatzh">kirtzh</a>
     </td>
     <td align="center">
         <a href="https://github.com/subhobrata">
