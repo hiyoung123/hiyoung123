@@ -194,18 +194,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/JCSIVO">
-            <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
-        </a>
-        <br />
-        <a href="https://github.com/JCSIVO">JCSIVO</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/jelspace">
             <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
         </a>
         <br />
         <a href="https://github.com/jelspace">21world</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/JCSIVO">
+            <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
+        </a>
+        <br />
+        <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
     <td align="center">
         <a href="https://github.com/dirambora">
