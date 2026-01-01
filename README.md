@@ -245,18 +245,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/removeif">
-            <img src="https://avatars2.githubusercontent.com/u/10427139" width="100px;" alt="removeif"/>
-        </a>
-        <br />
-        <a href="https://github.com/removeif">辣椒の酱</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Kairatzh">
             <img src="https://avatars2.githubusercontent.com/u/148870880" width="100px;" alt="Kairatzh"/>
         </a>
         <br />
         <a href="https://github.com/Kairatzh">kirtzh</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/removeif">
+            <img src="https://avatars2.githubusercontent.com/u/10427139" width="100px;" alt="removeif"/>
+        </a>
+        <br />
+        <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
     <td align="center">
         <a href="https://github.com/MdRashid62">
