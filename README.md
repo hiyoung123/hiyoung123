@@ -194,18 +194,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/seckinyasar">
-            <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
-        </a>
-        <br />
-        <a href="https://github.com/seckinyasar">Seckin Yasar</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/dirambora">
             <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
         </a>
         <br />
         <a href="https://github.com/dirambora">Diram</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/seckinyasar">
+            <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
+        </a>
+        <br />
+        <a href="https://github.com/seckinyasar">Seckin Yasar</a>
     </td>
     <td align="center">
         <a href="https://github.com/ArefMq">
@@ -222,18 +222,18 @@
         <a href="https://github.com/goran-revops">Goran</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Akshar-code">
-            <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
-        </a>
-        <br />
-        <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Kairatzh">
             <img src="https://avatars2.githubusercontent.com/u/148870880" width="100px;" alt="Kairatzh"/>
         </a>
         <br />
         <a href="https://github.com/Kairatzh">kirtzh</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Akshar-code">
+            <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
+        </a>
+        <br />
+        <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
     </td>
     <td align="center">
         <a href="https://github.com/removeif">
