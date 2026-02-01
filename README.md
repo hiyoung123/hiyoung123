@@ -287,11 +287,11 @@
         <a href="https://github.com/zhaocc1106">zhaochaochao</a>
     </td>
     <td align="center">
-        <a href="https://github.com/MadhawaRathnayaka">
-            <img src="https://avatars2.githubusercontent.com/u/102204921" width="100px;" alt="MadhawaRathnayaka"/>
+        <a href="https://github.com/BarryZM">
+            <img src="https://avatars2.githubusercontent.com/u/26347137" width="100px;" alt="BarryZM"/>
         </a>
         <br />
-        <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
+        <a href="https://github.com/BarryZM">BarryZM</a>
     </td>
   </tr>
 </table>
