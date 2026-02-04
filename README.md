@@ -201,13 +201,6 @@
         <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
-        <a href="https://github.com/seckinyasar">
-            <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
-        </a>
-        <br />
-        <a href="https://github.com/seckinyasar">Seckin Yasar</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ArefMq">
             <img src="https://avatars2.githubusercontent.com/u/10897992" width="100px;" alt="ArefMq"/>
         </a>
@@ -242,8 +235,6 @@
         <br />
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/alei76">
             <img src="https://avatars2.githubusercontent.com/u/6091534" width="100px;" alt="alei76"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/BarryZM">BarryZM</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MadhawaRathnayaka">
+            <img src="https://avatars2.githubusercontent.com/u/102204921" width="100px;" alt="MadhawaRathnayaka"/>
+        </a>
+        <br />
+        <a href="https://github.com/MadhawaRathnayaka">Madhawa Lakshan</a>
     </td>
   </tr>
 </table>
