@@ -201,6 +201,13 @@
         <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
+        <a href="https://github.com/bryanadenhq">
+            <img src="https://avatars2.githubusercontent.com/u/222145683" width="100px;" alt="bryanadenhq"/>
+        </a>
+        <br />
+        <a href="https://github.com/bryanadenhq">Bryan @ Aden</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ArefMq">
             <img src="https://avatars2.githubusercontent.com/u/10897992" width="100px;" alt="ArefMq"/>
         </a>
@@ -235,6 +242,8 @@
         <br />
         <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/removeif">
             <img src="https://avatars2.githubusercontent.com/u/10427139" width="100px;" alt="removeif"/>
@@ -242,8 +251,6 @@
         <br />
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/zhaocc1106">zhaochaochao</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/BarryZM">
-            <img src="https://avatars2.githubusercontent.com/u/26347137" width="100px;" alt="BarryZM"/>
-        </a>
-        <br />
-        <a href="https://github.com/BarryZM">BarryZM</a>
     </td>
   </tr>
 </table>
