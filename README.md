@@ -208,18 +208,18 @@
         <a href="https://github.com/bryanadenhq">Bryan @ Aden</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ArefMq">
-            <img src="https://avatars2.githubusercontent.com/u/10897992" width="100px;" alt="ArefMq"/>
-        </a>
-        <br />
-        <a href="https://github.com/ArefMq">Aref Mehr</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/adelburieva">
             <img src="https://avatars2.githubusercontent.com/u/137014493" width="100px;" alt="adelburieva"/>
         </a>
         <br />
         <a href="https://github.com/adelburieva">Adel Burieva</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ArefMq">
+            <img src="https://avatars2.githubusercontent.com/u/10897992" width="100px;" alt="ArefMq"/>
+        </a>
+        <br />
+        <a href="https://github.com/ArefMq">Aref Mehr</a>
     </td>
     <td align="center">
         <a href="https://github.com/goran-revops">
