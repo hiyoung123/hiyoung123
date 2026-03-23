@@ -259,18 +259,18 @@
         <a href="https://github.com/MdRashid62">Muhammad Rashid</a>
     </td>
     <td align="center">
-        <a href="https://github.com/alei76">
-            <img src="https://avatars2.githubusercontent.com/u/6091534" width="100px;" alt="alei76"/>
-        </a>
-        <br />
-        <a href="https://github.com/alei76">alei76</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/baifengbai">
             <img src="https://avatars2.githubusercontent.com/u/17536662" width="100px;" alt="baifengbai"/>
         </a>
         <br />
         <a href="https://github.com/baifengbai">Bai Feng</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/alei76">
+            <img src="https://avatars2.githubusercontent.com/u/6091534" width="100px;" alt="alei76"/>
+        </a>
+        <br />
+        <a href="https://github.com/alei76">alei76</a>
     </td>
     <td align="center">
         <a href="https://github.com/subhobrata">
