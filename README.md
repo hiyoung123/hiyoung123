@@ -208,6 +208,13 @@
         <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
+        <a href="https://github.com/helallao">
+            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
+        </a>
+        <br />
+        <a href="https://github.com/helallao">Ali Yaşar</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/adelburieva">
             <img src="https://avatars2.githubusercontent.com/u/137014493" width="100px;" alt="adelburieva"/>
         </a>
@@ -235,6 +242,8 @@
         <br />
         <a href="https://github.com/Kairatzh">kirtzh</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Akshar-code">
             <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
@@ -242,8 +251,6 @@
         <br />
         <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/removeif">
             <img src="https://avatars2.githubusercontent.com/u/10427139" width="100px;" alt="removeif"/>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/northeast250">northeast250</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zhaocc1106">
-            <img src="https://avatars2.githubusercontent.com/u/26559935" width="100px;" alt="zhaocc1106"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhaocc1106">zhaochaochao</a>
     </td>
   </tr>
 </table>
