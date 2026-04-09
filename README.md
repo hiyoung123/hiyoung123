@@ -208,6 +208,20 @@
         <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
+        <a href="https://github.com/helallao">
+            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
+        </a>
+        <br />
+        <a href="https://github.com/helallao">Ali Yaşar</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/seckinyasar">
+            <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
+        </a>
+        <br />
+        <a href="https://github.com/seckinyasar">Seckin Yasar</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/adelburieva">
             <img src="https://avatars2.githubusercontent.com/u/137014493" width="100px;" alt="adelburieva"/>
         </a>
@@ -228,6 +242,8 @@
         <br />
         <a href="https://github.com/goran-revops">Goran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Kairatzh">
             <img src="https://avatars2.githubusercontent.com/u/148870880" width="100px;" alt="Kairatzh"/>
@@ -242,8 +258,6 @@
         <br />
         <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/removeif">
             <img src="https://avatars2.githubusercontent.com/u/10427139" width="100px;" alt="removeif"/>
@@ -278,20 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/subhobrata">subhobrata</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/northeast250">
-            <img src="https://avatars2.githubusercontent.com/u/8563833" width="100px;" alt="northeast250"/>
-        </a>
-        <br />
-        <a href="https://github.com/northeast250">northeast250</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zhaocc1106">
-            <img src="https://avatars2.githubusercontent.com/u/26559935" width="100px;" alt="zhaocc1106"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhaocc1106">zhaochaochao</a>
     </td>
   </tr>
 </table>
