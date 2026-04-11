@@ -208,13 +208,6 @@
         <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
-        <a href="https://github.com/helallao">
-            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
-        </a>
-        <br />
-        <a href="https://github.com/helallao">Ali Yaşar</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/seckinyasar">
             <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
         </a>
@@ -242,8 +235,6 @@
         <br />
         <a href="https://github.com/goran-revops">Goran</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Kairatzh">
             <img src="https://avatars2.githubusercontent.com/u/148870880" width="100px;" alt="Kairatzh"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/Kairatzh">kirtzh</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Akshar-code">
             <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/subhobrata">subhobrata</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/northeast250">
+            <img src="https://avatars2.githubusercontent.com/u/8563833" width="100px;" alt="northeast250"/>
+        </a>
+        <br />
+        <a href="https://github.com/northeast250">northeast250</a>
     </td>
   </tr>
 </table>
