@@ -222,18 +222,18 @@
         <a href="https://github.com/ArefMq">Aref Mehr</a>
     </td>
     <td align="center">
-        <a href="https://github.com/goran-revops">
-            <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="goran-revops"/>
-        </a>
-        <br />
-        <a href="https://github.com/goran-revops">Goran</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Kairatzh">
             <img src="https://avatars2.githubusercontent.com/u/148870880" width="100px;" alt="Kairatzh"/>
         </a>
         <br />
         <a href="https://github.com/Kairatzh">kirtzh</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/goran-revops">
+            <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="goran-revops"/>
+        </a>
+        <br />
+        <a href="https://github.com/goran-revops">Goran</a>
     </td>
     <td align="center">
         <a href="https://github.com/Akshar-code">
