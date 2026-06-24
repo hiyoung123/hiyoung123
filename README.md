@@ -287,11 +287,11 @@
         <a href="https://github.com/northeast250">northeast250</a>
     </td>
     <td align="center">
-        <a href="https://github.com/zhaocc1106">
-            <img src="https://avatars2.githubusercontent.com/u/26559935" width="100px;" alt="zhaocc1106"/>
+        <a href="https://github.com/SiNZeRo">
+            <img src="https://avatars2.githubusercontent.com/u/1358421" width="100px;" alt="SiNZeRo"/>
         </a>
         <br />
-        <a href="https://github.com/zhaocc1106">zhaochaochao</a>
+        <a href="https://github.com/SiNZeRo">Truman, Wentao TIAN</a>
     </td>
   </tr>
 </table>
