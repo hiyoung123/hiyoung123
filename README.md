@@ -229,21 +229,12 @@
         <a href="https://github.com/Kairatzh">kirtzh</a>
     </td>
     <td align="center">
-        <a href="https://github.com/goran-revops">
-            <img src="https://avatars2.githubusercontent.com/u/46086727" width="100px;" alt="goran-revops"/>
-        </a>
-        <br />
-        <a href="https://github.com/goran-revops">Goran</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Akshar-code">
             <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
         </a>
         <br />
         <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/removeif">
             <img src="https://avatars2.githubusercontent.com/u/10427139" width="100px;" alt="removeif"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/SiNZeRo">Truman, Wentao TIAN</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/zhaocc1106">
+            <img src="https://avatars2.githubusercontent.com/u/26559935" width="100px;" alt="zhaocc1106"/>
+        </a>
+        <br />
+        <a href="https://github.com/zhaocc1106">zhaochaochao</a>
     </td>
   </tr>
 </table>
