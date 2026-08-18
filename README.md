@@ -194,18 +194,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/JCSIVO">
-            <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
-        </a>
-        <br />
-        <a href="https://github.com/JCSIVO">JCSIVO</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Ali-hey-0">
             <img src="https://avatars2.githubusercontent.com/u/157505360" width="100px;" alt="Ali-hey-0"/>
         </a>
         <br />
         <a href="https://github.com/Ali-hey-0">Ali Heydari</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/JCSIVO">
+            <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
+        </a>
+        <br />
+        <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
     <td align="center">
         <a href="https://github.com/bryanadenhq">
