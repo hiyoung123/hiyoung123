@@ -229,21 +229,12 @@
         <a href="https://github.com/adelburieva">Adel Burieva</a>
     </td>
     <td align="center">
-        <a href="https://github.com/journaltraces">
-            <img src="https://avatars2.githubusercontent.com/u/316382256" width="100px;" alt="journaltraces"/>
-        </a>
-        <br />
-        <a href="https://github.com/journaltraces">Darius B.</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ArefMq">
             <img src="https://avatars2.githubusercontent.com/u/10897992" width="100px;" alt="ArefMq"/>
         </a>
         <br />
         <a href="https://github.com/ArefMq">Aref Mehr</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Kairatzh">
             <img src="https://avatars2.githubusercontent.com/u/148870880" width="100px;" alt="Kairatzh"/>
@@ -251,6 +242,8 @@
         <br />
         <a href="https://github.com/Kairatzh">kirtzh</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Akshar-code">
             <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
@@ -292,6 +285,13 @@
         </a>
         <br />
         <a href="https://github.com/subhobrata">subhobrata</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/northeast250">
+            <img src="https://avatars2.githubusercontent.com/u/8563833" width="100px;" alt="northeast250"/>
+        </a>
+        <br />
+        <a href="https://github.com/northeast250">northeast250</a>
     </td>
   </tr>
 </table>
