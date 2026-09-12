@@ -266,18 +266,18 @@
         <a href="https://github.com/alei76">alei76</a>
     </td>
     <td align="center">
-        <a href="https://github.com/subhobrata">
-            <img src="https://avatars2.githubusercontent.com/u/33755814" width="100px;" alt="subhobrata"/>
-        </a>
-        <br />
-        <a href="https://github.com/subhobrata">subhobrata</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/SiNZeRo">
             <img src="https://avatars2.githubusercontent.com/u/1358421" width="100px;" alt="SiNZeRo"/>
         </a>
         <br />
         <a href="https://github.com/SiNZeRo">Truman, Wentao TIAN</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/subhobrata">
+            <img src="https://avatars2.githubusercontent.com/u/33755814" width="100px;" alt="subhobrata"/>
+        </a>
+        <br />
+        <a href="https://github.com/subhobrata">subhobrata</a>
     </td>
     <td align="center">
         <a href="https://github.com/northeast250">
