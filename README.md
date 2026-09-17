@@ -185,20 +185,20 @@
         <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
     <td align="center">
-        <a href="https://github.com/bryanadenhq">
-            <img src="https://avatars2.githubusercontent.com/u/222145683" width="100px;" alt="bryanadenhq"/>
-        </a>
-        <br />
-        <a href="https://github.com/bryanadenhq">Bryan @ Aden</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/poormikey80-create">
             <img src="https://avatars2.githubusercontent.com/u/288836203" width="100px;" alt="poormikey80-create"/>
         </a>
         <br />
         <a href="https://github.com/poormikey80-create">Mikayla P.</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/bryanadenhq">
+            <img src="https://avatars2.githubusercontent.com/u/222145683" width="100px;" alt="bryanadenhq"/>
+        </a>
+        <br />
+        <a href="https://github.com/bryanadenhq">Bryan @ Aden</a>
     </td>
     <td align="center">
         <a href="https://github.com/dirambora">
