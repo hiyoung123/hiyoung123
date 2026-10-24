@@ -164,6 +164,13 @@
         <a href="https://github.com/IDouble">Alp ₿📈🚀🌕</a>
     </td>
     <td align="center">
+        <a href="https://github.com/kpopdev">
+            <img src="https://avatars2.githubusercontent.com/u/28566705" width="100px;" alt="kpopdev"/>
+        </a>
+        <br />
+        <a href="https://github.com/kpopdev">Kyla</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/esin">
             <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
         </a>
@@ -184,6 +191,8 @@
         <br />
         <a href="https://github.com/jelspace">21world</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/JCSIVO">
             <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
@@ -191,8 +200,6 @@
         <br />
         <a href="https://github.com/JCSIVO">JCSIVO</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/bryanadenhq">
             <img src="https://avatars2.githubusercontent.com/u/222145683" width="100px;" alt="bryanadenhq"/>
@@ -235,6 +242,8 @@
         <br />
         <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/removeif">
             <img src="https://avatars2.githubusercontent.com/u/10427139" width="100px;" alt="removeif"/>
@@ -242,8 +251,6 @@
         <br />
         <a href="https://github.com/removeif">辣椒の酱</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/MdRashid62">
             <img src="https://avatars2.githubusercontent.com/u/55427374" width="100px;" alt="MdRashid62"/>
@@ -285,13 +292,6 @@
         </a>
         <br />
         <a href="https://github.com/northeast250">northeast250</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zhaocc1106">
-            <img src="https://avatars2.githubusercontent.com/u/26559935" width="100px;" alt="zhaocc1106"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhaocc1106">zhaochaochao</a>
     </td>
   </tr>
 </table>
