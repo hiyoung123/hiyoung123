@@ -178,27 +178,27 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/poormikey80-create">
-            <img src="https://avatars2.githubusercontent.com/u/288836203" width="100px;" alt="poormikey80-create"/>
-        </a>
-        <br />
-        <a href="https://github.com/poormikey80-create">Mikayla P.</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/jelspace">
             <img src="https://avatars2.githubusercontent.com/u/27209430" width="100px;" alt="jelspace"/>
         </a>
         <br />
         <a href="https://github.com/jelspace">21world</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/JCSIVO">
             <img src="https://avatars2.githubusercontent.com/u/104387283" width="100px;" alt="JCSIVO"/>
         </a>
         <br />
         <a href="https://github.com/JCSIVO">JCSIVO</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/poormikey80-create">
+            <img src="https://avatars2.githubusercontent.com/u/288836203" width="100px;" alt="poormikey80-create"/>
+        </a>
+        <br />
+        <a href="https://github.com/poormikey80-create">Mikayla P.</a>
     </td>
     <td align="center">
         <a href="https://github.com/bryanadenhq">
