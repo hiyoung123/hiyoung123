@@ -19,7 +19,7 @@
 
  ### 🤺 About Me
 
-  - ***🔭 我是海洋，目前在北京奇虎360工作*** 
+  - ***🔭 我是海洋，目前在北京阿里巴巴工作*** 
   - ***🌱 从事搜索引擎、AIGC应用相关工作***
   - ***🌱 喜欢编程、打游戏、和健身***
   - ***👯 常年混迹于Github、V2EX、阮一峰周刊等同性交友网站***
@@ -40,7 +40,7 @@
 
 <img align="right" width="88" src="https://bkimg.cdn.bcebos.com/pic/4034970a304e251fa3eea395a886c9177f3e5345?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" />
 
-- [奇虎360](https://www.360.cn/) &emsp; 📌 2021-10 —— 至今
+- [奇虎360](https://www.360.cn/) &emsp; 📌 2021-10 —— 2024-10
 
   - 工作岗位：后端开发
   - 工作内容：AIGC & 搜索引擎
