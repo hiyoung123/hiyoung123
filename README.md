@@ -201,18 +201,18 @@
         <a href="https://github.com/bryanadenhq">Bryan @ Aden</a>
     </td>
     <td align="center">
-        <a href="https://github.com/dirambora">
-            <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
-        </a>
-        <br />
-        <a href="https://github.com/dirambora">Diram</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/poormikey80-create">
             <img src="https://avatars2.githubusercontent.com/u/288836203" width="100px;" alt="poormikey80-create"/>
         </a>
         <br />
         <a href="https://github.com/poormikey80-create">Mikayla P.</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dirambora">
+            <img src="https://avatars2.githubusercontent.com/u/42798758" width="100px;" alt="dirambora"/>
+        </a>
+        <br />
+        <a href="https://github.com/dirambora">Diram</a>
     </td>
     <td align="center">
         <a href="https://github.com/adelburieva">
